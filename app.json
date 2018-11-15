@@ -21,11 +21,11 @@
     },
     "DISCORD_WEBHOOK_URL": {
       "description": "Discord Webhook URL",
-      "value": "1"
+      "value": "https://discordapp.com/api/webhooks/512457111389732864/QYY76-s8ViWM35hS5nzTS2xJA34lgkU1LuWke-iOh_QGIemLB7GFjGCFqtv5_GgnzUCT"
     },
     "LEAGUE_ID": {
       "description": "ESPN League ID",
-      "value": "1"
+      "value": "215694"
     },
     "LEAGUE_YEAR": {
       "description": "ESPN League Year",
@@ -33,7 +33,7 @@
     },
     "TIMEZONE": {
       "description": "League timezone for sending messages",
-      "value": "America/New_York"
+      "value": "America/Chicago"
     },
     "START_DATE": {
       "description": "Season Start Date",
@@ -45,7 +45,7 @@
     },
     "INIT_MSG": {
       "description": "Bot Init Message",
-      "value": "Hi"
+      "value": "Football ya kidding me"
     }
   }
 }
