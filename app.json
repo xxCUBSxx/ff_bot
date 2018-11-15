@@ -25,7 +25,7 @@
     },
     "LEAGUE_ID": {
       "description": "ESPN League ID",
-      "value": "http://games.espn.com/ffl/leagueoffice?leagueId=215694"
+      "value": "215694"
     },
     "LEAGUE_YEAR": {
       "description": "ESPN League Year",
